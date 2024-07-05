@@ -609,6 +609,10 @@ th {
 	border-top-style: none;
 }
 
+.revision-hover :hover {
+	color:#963873;
+}
+
 .table-striped tbody tr:nth-of-type(odd){
 	background-color: #fafafa;
 }
